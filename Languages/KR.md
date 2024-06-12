@@ -1,3 +1,8 @@
+## 📜 Language / 언어
+[:book: About Me (EN)](EN.md)
+<br>
+[:book: 소개말 (KR)](KR.md)
+
 ## :book: 소개말
 <a name="book-소개말"></a>
 - 영상처리 개발자에서 웹 백엔드 개발자로 전향 중 입니다.
