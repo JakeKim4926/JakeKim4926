@@ -1,11 +1,12 @@
 # Language / 언어
-[:book: About Me](#about-me)
+[:book: About Me](#book-about-me)
 <br>
-[:book: 소개말](#소개말)
+[:book: 소개말](#book-소개말)
 
 ---
 
 ## :book: About Me
+<a name="book-about-me"></a>
 - Transitioning from an image processing developer to a web backend developer.
 - Worked at Deokin Co., Ltd. for about 2 years, developing and maintaining outsourced projects based on C++/MFC/OPENCV.
 - Studied Java web programming/algorithms and developed 3 web projects at Samsung Youth SW Academy for about 1 year.
@@ -43,6 +44,7 @@
 ---
 
 ## :book: 소개말
+<a name="book-소개말"></a>
 - 영상처리 개발자에서 웹 백엔드 개발자로 전향 중 입니다.
 - 약 2년 동안 (주)덕인 회사에서 C++/MFC/OPENCV 기반 외주 프로젝트 개발 및 유지보수를 진행하였습니다.
 - 약 1년 동안 삼성 청년 SW 아카데미 에서 Java 웹 프로그래밍/알고리즘 학습 및 3개의 웹 프로젝트 개발을 진행하였습니다.
