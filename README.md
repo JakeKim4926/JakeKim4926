@@ -1,7 +1,7 @@
 # Language / 언어
-[:book: About Me](#book-about-me)
+[:book: About Me](#book-about-me) **(EN)**
 <br>
-[:book: 소개말](#book-소개말)
+[:book: 소개말](#book-소개말) **(KR)**
 
 ---
 
