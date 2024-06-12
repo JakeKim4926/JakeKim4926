@@ -1,3 +1,9 @@
+## 📜 Language / 언어
+[:book: About Me (EN)](EN.md)
+<br>
+[:book: 소개말 (KR)](KR.md)
+
+
 ## :book: About Me
 <a name="book-about-me"></a>
 - Transitioning from an image processing developer to a web backend developer.
