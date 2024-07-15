@@ -13,7 +13,7 @@
 
 ## 🛠 Skills
 
-### 😄 업무에 활용할 수 있어요 ★★★★☆
+### 😄 업무에 활용할 수 있어요
 
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/f69c2abf-054c-49df-b428-4520b3fd7dd0" height="100px">
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/9a0e9eb5-7a37-4fb3-9da3-6411c2f0d89c" height="100px">
@@ -23,7 +23,7 @@
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/1d054be3-afcf-4d33-966b-b5abf0e536cd" height="100px">
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/04acf2ca-b1af-4fb2-8b37-c7def46f1717" height="100px">
 
-### 😃 어느 정도 사용할 수 있어요 ★★★☆☆
+### 😃 어느 정도 사용할 수 있어요
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/d712dc65-a792-4e9a-9897-84d03c4ba244" height="100px">
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/f345e986-a9aa-48d8-b556-56539cedf70e" height="100px">
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/d484f5fc-85c2-4642-9b31-0ebf4532965d" height="100px">
@@ -33,7 +33,7 @@
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/85dfefe5-7d44-4915-b117-371918367525" height="100px">
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/d1c0b5b4-1673-4263-b191-6d3263f1bbe8" height="100px">
 
-### 😀 보고 이해할 수는 있어요 ★★☆☆☆
+### 😀 보고 이해할 수는 있어요
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/f1f88d57-f7fa-4156-abad-91e4445e9b32" height="100px">
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/3eaf5590-0aaa-4887-bdd5-58ac60ec34a4" height="100px">
 
