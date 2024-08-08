@@ -37,6 +37,3 @@
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/f1f88d57-f7fa-4156-abad-91e4445e9b32" height="100px">
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/3eaf5590-0aaa-4887-bdd5-58ac60ec34a4" height="100px">
 
-## 🔎 Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakeKim4926)](https://github.com/anuraghazra/github-readme-stats)
