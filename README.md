@@ -10,6 +10,9 @@
 
 - https://github.com/JakeKim4926/myga
 
+## 📓 Algorithms
+
+- https://github.com/JakeKim4926/Algorithm/tree/main/Algorithms/src
 
 ## 🛠 Skills
 
@@ -23,6 +26,7 @@
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/f345e986-a9aa-48d8-b556-56539cedf70e" height="100px">
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/d484f5fc-85c2-4642-9b31-0ebf4532965d" height="100px">
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/e74d25a9-cd2a-4c87-a475-741d853f7a50" height="100px">
+<img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/82f2a428-94d3-488a-a30d-ce6343dee954" height="100px">
 
 
 ### 영상처리 개발 중 사용했어요
@@ -32,10 +36,9 @@
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/04acf2ca-b1af-4fb2-8b37-c7def46f1717" height="100px">
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/d1c0b5b4-1673-4263-b191-6d3263f1bbe8" height="100px">
 
-### 삼성 청년 SW아카데미에서 경험해 봤어요
+### 간단하게 프로젝트에서 구현해 봤어요
 
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/00e9ddcd-6639-4910-b218-be3a62031d88" height="100px">
-<img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/82f2a428-94d3-488a-a30d-ce6343dee954" height="100px">
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/85dfefe5-7d44-4915-b117-371918367525" height="100px">
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/f1f88d57-f7fa-4156-abad-91e4445e9b32" height="100px">
 <img src="https://github.com/JakeKim4926/JakeKim4926/assets/139411367/3eaf5590-0aaa-4887-bdd5-58ac60ec34a4" height="100px">
