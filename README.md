@@ -15,12 +15,12 @@
 
 ## ⏳ Now On
 
-
+- [https://github.com/JakeKim4926/SAGE_Face](https://github.com/JakeKim4926/SAGE_Face)
   <br/>
 
 ## 📓 Algorithms
 
-- [https://github.com/JakeKim4926/Algorithm/tree/main/Algorithms/src](https://github.com/JakeKim4926/Algorithm_CPP/tree/main/Algorithm_CPP)
+- [https://github.com/JakeKim4926/Algorithm/tree/main/Algorithms/src](https://github.com/JakeKim4926/Algorithm_CPP)
 
   <br/>
 
