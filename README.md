@@ -1,5 +1,5 @@
 
-## :book: 소개말
+## :book: Introduce
 <a name="book-소개말"></a>
 
 프로그램 사용자의 입장을 잊지 않는 개발자
