@@ -15,8 +15,6 @@
 
 ## ⏳ Now On
 
-- [https://github.com/JakeKim4926/SAGE_Face](https://github.com/JakeKim4926/SAGE_Face)
-  <br/>
 
 ## 📓 Algorithms
 
