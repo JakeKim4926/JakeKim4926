@@ -15,7 +15,7 @@
 
 ## ⏳ Now On
 
--
+- Develop programs with claude code for people
 
 ## 📓 Algorithms
 
