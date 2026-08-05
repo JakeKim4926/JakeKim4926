@@ -1,3 +1,7 @@
+<p align="right">
+  <b>한국어</b> | <a href="./README.en.md">English</a>
+</p>
+
 <div align="center">
 
 # 김준섭 | Agentic Software Engineer
